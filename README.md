@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**Almie/Almie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a lighting/compositing artist based in Vancouver, BC. I also have a passion for developing tools that make my life as an artist easier.
 
-Here are some ideas to get you started:
+## Code samples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PyQt/PySide UI samples:
+
+- 📈 [Stonks](https://github.com/Almie/code-samples/tree/main/qt_python_example/stonks) - An interactive financial candlestick chart with customizable indicators and connections to market data providers.
+- 📁[Batch Cacher](https://github.com/Almie/code-samples/tree/main/qt_python_example/batchcacher) - A simple list interface for batch importing animations in the proprietary DMX format into Blender and caching them to Alembic
+
+## Creative showreel
+
+☀️[Click here](https://vimeo.com/218146582) to watch my latest lighting & compositing reel!
